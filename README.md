@@ -8,4 +8,6 @@ All coded by typing on Windows Notepad, Windows 95.
 Nowadays it can be visit with this link:
 https://web.archive.org/web/20020205163406/http://www.geocities.com/SunsetStrip/Studio/2508/
 
+<img src="screenshot-1-800px.jpg.jpg">
+
 **Huge thanks to Geocities team which preserve this data!**
