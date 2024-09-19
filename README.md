@@ -1,15 +1,13 @@
-# Memory: one of my first works in web
+# Memory of my first website
 
-I found this website on internet, made by me
-[Andre Fonseca de Paiva andrepaiva.arq@gmail.com]
+I found this website on internet, made by me in 1997.
 
-I'm saving here just as memories from 1997.
-All coded by typing on Windows Notepad, Windows 95.
+Tecnhonogies: `Notepad`, `Windows 95`, `Netscape Browser`. 😂
 
-Nowadays it can be visit with this link:
+Nowadays it leaves in this link:
 
-https://web.archive.org/web/20020205163406/http://www.geocities.com/SunsetStrip/Studio/2508/
+https://afpaiva.github.io/1997-memories/
+
+**Huge thanks to Geocities and Web Archive for preserving this data!**
 
 <img src="screenshot-1-800px.jpg.jpg">
-
-**Huge thanks to Geocities team which preserve this data!**
