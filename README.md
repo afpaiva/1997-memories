@@ -4,7 +4,7 @@ I found this website on internet, made by me in 1997.
 
 Tecnhonogies: `Notepad`, `Windows 95`, `Netscape Browser`. 😂
 
-Nowadays it leaves in this link:
+Nowadays it lives in this link:
 
 https://afpaiva.github.io/1997-memories/
 
